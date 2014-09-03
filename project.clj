@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [clj-tagsoup "0.3.0"]]
   :aot :all
+  
   :main task01.core)
